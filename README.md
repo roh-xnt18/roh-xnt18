@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Rohan!
 
-### 🚀 Aspiring Software Developer | B.Tech CSE | Open Source Exporer
+### 🚀 Aspiring Software Developer | B.Tech CSE | Open Source Explorer
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00BFFF&center=false&vCenter=true&width=450&lines=B.Tech+CSE+Student+from+GEC+Vaishali;Aspiring+Backend+%2F+Cloud+Developer;Exploring+Tech+and+Open+Source" alt="Typing SVG" />
