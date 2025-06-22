@@ -26,22 +26,9 @@ I’m a Computer Science student at **Government Engineering College, Vaishali**
   Developed a database-driven monitoring system prototype.
 - **🌐 Web Projects**: Responsive websites & API integrations
 - **📦 Mini Projects**: Portfolio, Weather App, Student Record System
-
-### 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=radical&hide_border=false" width="48%" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&row=1&column=6&no-frame=true" />
-</p>
+- 
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/rohan-kumar-bb266b229)  
 📧 rohankr77800@gmail.com
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile views"/>
-</p>
